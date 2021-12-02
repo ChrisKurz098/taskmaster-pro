@@ -2,7 +2,8 @@
     "typeAcquisition": {
         "include": [
             "jquery",
-            "jqueryui"
+            "jqueryui",
+            "moment"
         ]
     }
 
